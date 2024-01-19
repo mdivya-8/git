@@ -1,0 +1,8 @@
+Simulink (mathematical equation ,instanious solving of logics)
+1.used for both developing and testing in the same environment
+(which is used to resolve logic and sofware related issues in the initial stages.
+2.auto code generation
+3.graphical design
+
+state flow
+choose state flow when transistion from one state to another state
