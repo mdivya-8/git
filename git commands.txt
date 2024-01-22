@@ -1,0 +1,16 @@
+GIT
+-> version control system(vcs)
+  project - website  redeploy(updates) versions 1.2.15 & 1.2.16
+->version changes
+->project save
+-> remote server(save project,version changes,track changes)
+
+repository -> folder or package for a project
+
+GIT HUb(free account)
+-> one example of remote repository hosting service
+           
+1.Remote repository
+2.local repository
+3.staging area
+4.working directory
