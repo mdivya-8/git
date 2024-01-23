@@ -1,0 +1,11 @@
+git clone
+git diff
+git rebase
+git reflog
+gt revert<commit>
+git reset<file>
+git clean -n
+git fetch <remote> <branch>
+git pull <remote>
+
+git reset
